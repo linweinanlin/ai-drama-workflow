@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+startup.log
+# 本机配置（含绝对路径）
+legacy_app_config.json
+# 生产数据与素材不入库
+01_bible/
+02_script/
+03_storyboard/
+05_generation/
+07_qc/
+08_release/
+*.mp4
+*.mp3
+*.wav
+*.ass
+*.srt

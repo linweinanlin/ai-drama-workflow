@@ -1,0 +1,13 @@
+# 外壳
+PySide6>=6.6,<7
+
+# 内核必需
+Pillow>=10,<12
+numpy>=1.24,<3
+requests>=2.31,<3
+opencv-python>=4.8
+
+# 可选：口型对齐（MediaPipe FaceMesh）与拼音标注
+# 缺失时内核会自动降级，不阻断出片流程
+# mediapipe>=0.10,<0.11
+# pypinyin>=0.51,<1
