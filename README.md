@@ -1,7 +1,7 @@
 # AI 漫剧自动化工作流
 
 > 把一部竖屏漫剧从「剧本」推到「可交付成片」的本地桌面工作台。
-> **本仓库是源码仓，私有。** 对外展示页见 `ai-drama-workflow-showcase`。
+> **本仓库是完整源码仓，MIT 许可，可自由使用与二次开发。** 对外展示页见 `ai-drama-workflow-showcase`。
 
 Python 3.9 · PySide6（外壳）· Tk/ttk（生产内核）· FFmpeg · OpenCV · MediaPipe · 单机本地运行
 
